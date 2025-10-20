@@ -7,4 +7,7 @@ Coding projects for Lnear Algebra
 
 2. Using Google Co-Lab to predict skiers behaviors
    
-https://github.com/gtsiwicki/Math311-Linear-Algebra/blob/main/Gannon_Siwicki_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
+   https://github.com/gtsiwicki/Math311-Linear-Algebra/blob/main/Gannon_Siwicki_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
+
+3. Using Google Co-Lab to outcomes of football games
+   https://colab.research.google.com/drive/1GHkfx3KCnNEcpXMWz2afbc7iDib3sWKR#scrollTo=UkDKmNba6YHi
