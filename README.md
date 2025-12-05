@@ -1,5 +1,5 @@
 # Math311-Linear-Algebra
-Coding projects for Linear Algebra 
+Coding projects for Linear Algebra using python within Google Co-Lab
 
 1. Using Google Co-Lab to solve system of equations with code:
    
