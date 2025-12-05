@@ -15,6 +15,6 @@ Coding projects for Linear Algebra using python within Google Co-Lab
    [GitHub Pages](https://github.com/gtsiwicki/Math311-Linear-Algebra/blob/main/Gannon_Siwicki_Gram_Schmidt.ipynb)
 
 **5.** Using Google Co-Lab to Reduce Images Using SVD:
-   [GitHub Pages](https://github.com/gtsiwicki/Math311-LinearAlgebra/blob/main/Gannon_Siwicki_Explore_Impact_of_Eigenvalues_for_non_square_matrices.ipynb)
+   [GitHub Pages](Gannon_Siwicki_Explore_Impact_of_Eigenvalues_for_non_square_matrices.ipynb)
 
 Note: Project within this README file was instructor-provided code where it was then modified by myself.
