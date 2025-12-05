@@ -2,8 +2,7 @@
 Coding projects for Linear Algebra using python within Google Co-Lab
 
 1. Using Google Co-Lab to solve system of equations with code:
-
-    [GitHub Pages]( https://github.com/gtsiwicki/Math311-Linear-Algebra/blob/main/Gannon_Siwicki_Math_311_solve_systems_using_computation_and_rref.ipynb)
+[GitHub Pages]( https://github.com/gtsiwicki/Math311-Linear-Algebra/blob/main/Gannon_Siwicki_Math_311_solve_systems_using_computation_and_rref.ipynb)
   
 
 3. Using Google Co-Lab to predict skiers behaviors
